@@ -16,4 +16,4 @@ This is a quick and easy to use/modify repo that can be accessed by anyone givin
 * Make a better solution to deal with PDFs.
 
 
-Questions or comments, please feel free to make an issue. The repo maintainers are @Nefari0uss and @oswlersw
+Questions or comments, please feel free to make an issue. The repo maintainers are [Nefari0uss](https://github.com/Nefari0uss) and [LibreWulf](https://github.com/oslerw)
