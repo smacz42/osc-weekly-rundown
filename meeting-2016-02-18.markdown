@@ -13,6 +13,9 @@ By The Open Source Club
 * They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
 * No guarantees are made that the information in this presentation are free of errors.
 
+# [Apple, the FBI, and Encrpytion](https://www.apple.com/customer-letter/)
+* 
+
 # [![Vulkan by the Khronos Group](vulkan-logo.svg)](https://www.khronos.org/vulkan/)
 * Released 16th Feb 2016.
 * New generation low-overhead graphics and compute API.
@@ -63,6 +66,11 @@ By The Open Source Club
 * Improved share functionality
 
 # [Iceweasel being renamed to Firefox?](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=815006)
+* Long standing issue since 2004.
+* Mozilla owns the trademark ```Firefox``` and has the right to deny the use of the name/trademark on unofficial builds.
+* [Debian Free Software Guidelines](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines) determine whether something can be included in Debian releases.
+* Firefox logo did not meet guidelines. 
+* GNU Iceweasel is Firefox + Debian patches and modifications
 
 # FIRE EMBLEM FATES HYPE TRAIN
 
