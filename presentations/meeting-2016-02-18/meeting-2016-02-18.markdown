@@ -6,14 +6,14 @@ revealjs-url: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/'
 
 By The Open Source Club
 
-![OSC Logo](osc-logo.svg "Open Source Club at Ohio State Logo")
+![OSC Logo](osc-logo.pdf "Open Source Club at Ohio State Logo")
 
 # Disclaimer
 * The views expressed in this presentation are those of the presentator(s).
 * They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
 * No guarantees are made that the information in this presentation are free of errors.
 
-# [![Vulkan by the Khronos Group](vulkan-logo.svg)](https://www.khronos.org/vulkan/)
+# [![Vulkan by the Khronos Group](./vulkan-logo.pdf)](https://www.khronos.org/vulkan/)
 * Released 16th Feb 2016.
 * New generation low-overhead graphics and compute API.
 * Provides high-efficiency cross-platform access to modern GPUs used on PCs, consoles, and mobile.

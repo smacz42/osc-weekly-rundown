@@ -1,10 +1,8 @@
 # Git Ignore
 
-
 # VIM
 # swap
-[._]*.s[a-w][a-z]
-[._]s[a-w][a-z]
+.swp
 # persistent undo 
 *.un~
 # session
