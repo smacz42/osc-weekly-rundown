@@ -1,5 +1,5 @@
 ---
-revealjs-url: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/'
+theme: m
 ---
 
 ## This week in technology, open source, and Linux!
@@ -14,7 +14,8 @@ By The Open Source Club
 * No guarantees are made that the information in this presentation are free of errors.
 
 # [Apple, the FBI, and Encrpytion](https://www.apple.com/customer-letter/)
-* 
+
+![](./ios-sec.png)
 
 # [![Vulkan by the Khronos Group](./vulkan-logo.pdf)](https://www.khronos.org/vulkan/)
 * Released 16th Feb 2016.
@@ -42,24 +43,15 @@ By The Open Source Club
   * desktop applications
 * Any Java library works in Kotlin and vice versa!
 
-![](./kotlin-logo.png) 
+![](./kotlin-logo.png)
+
 # [Street Fighter 5 gets SteamOS (Linux) support](https://www.vg247.com/2015/12/18/street-fighter-5-to-support-steam-os-steam-controller/)
 
 * Street Fighter 5 will not ship with SteamOS/Linux support.
 * Will be free update for any owners in the spring.
 * This is nice because PC gamers (especially Linux gamers) are in a somewhat uncertain state after the Warner Brothers debacle.
 
-# [Windows DLLs and ```MOV EDI, EDI``` instruction](https://blogs.msdn.microsoft.com/oldnewthing/20110921-00/?p=9583)
-* Windows DLLs begin with a ```MOV EDI, EDI``` instruction.
-* Instruction copies value in register ```EDI``` and moves it into...```EDI```.
-* 2 byte ```NOOP``` instruction to enable hot-patching.
-* Allows for hot patches to run ***without*** needing to reboot Windows or restart application.
-* At run time the 2-byte ```NOOP``` is replaced by a short jump to a long jump to hot-fix function.
-	* ```MOV EDI, EDI``` gets replaced with two-byte ```JMP $-5``` instruction.
-	* Redirects to some space that is 5 bytes long.
-	* 5 bytes is enough for a full jump to the patch.
-* 2 byte instruction is required so the instruction pointer will not point to the middle of an instruction.
-
+# [Firefox: Mockups](http://www.ghacks.net/2016/02/15/firefox-mockups-show-activity-stream-new-tab-page-and-share-updates/)
 * New mockups for comibined address bar and search field.
 * New Tab page
 * An "activity stream"
@@ -69,8 +61,25 @@ By The Open Source Club
 * Long standing issue since 2004.
 * Mozilla owns the trademark ```Firefox``` and has the right to deny the use of the name/trademark on unofficial builds.
 * [Debian Free Software Guidelines](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines) determine whether something can be included in Debian releases.
-* Firefox logo did not meet guidelines. 
+* Firefox logo did not meet guidelines.
 * GNU Iceweasel is Firefox + Debian patches and modifications
+
+# [TP-Link update forces signed firmware](http://ml.ninux.org/pipermail/battlemesh/2016-February/004379.html)
+
+- After a recent FCC decision, companies are clamping down on firmware
+- There were fears that this would prevent people from using Open Source
+  firmware
+    - FCC "clarifies", says open source has nothing to worry about
+- TP-Link is pushing out updates that cause the router to reject unsigned
+  firmware
+- If you update your router, you won't ever be able to go back and install Open
+  Source firmeware
+
+# [ReactOS 0.4.0 Released](https://reactos.org/project-news/reactos-040-released)
+
+"Imagine running your favorite Windows applications and drivers in an
+open-source environment you can trust. That's ReactOS. Not just an Open but also
+a Free operating system."
 
 # FIRE EMBLEM FATES HYPE TRAIN
 

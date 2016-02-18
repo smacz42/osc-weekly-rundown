@@ -11,7 +11,7 @@ debug: $(TEX)
 	$(eval DIR=$(shell dirname $<))
 	$(eval MY_MD=$(shell basename $<))
 	$(eval MY_PDF=$(shell basename $@))
-	cd $(DIR); pandoc $(MY_MD) -t beamer --latex-engine xelatex -o $(MY_PDF) --template=$(TEMPLATE) -f markdown+lists_without_preceding_blankline
+	cd $(DIR); pandoc $(MY_MD) -t beamer --latex-engine xelatex -o $(MY_PDF) --template=$(TEMPLATE) -f markdown+lists_without_preceding_blankline-implicit_figures
 
 # Useful for debugging
 %.tex: %.markdown template.latex Makefile
