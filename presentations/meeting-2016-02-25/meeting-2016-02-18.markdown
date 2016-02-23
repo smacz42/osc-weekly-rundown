@@ -1,0 +1,26 @@
+---
+theme: m
+---
+
+## This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation are free of errors.
+
+# [Mousejacking](https://www.mousejack.com/)
+* "MouseJack is a vulnerability that exploits a design flaw in many wireless mice. The flaw uses wireless communication to enable adversaries to anonymously pair another device to your computer from a distance, and then use this secondary device to insert keystrokes or malicious code"
+* NOT BLUETOOTH
+* ![Affected devices](https://www.bastille.net/affected-devices) Amazon, Dell, Gigabyte, HP, Lenovo, Logitech, Microsoft
+![](./mousejack.png)
+
+
+# Fin
+
+* Anything we missed?
+* Feel free to share!
