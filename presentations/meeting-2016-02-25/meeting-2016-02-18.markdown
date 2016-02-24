@@ -19,6 +19,9 @@ By The Open Source Club
 * ![Affected devices](https://www.bastille.net/affected-devices) Amazon, Dell, Gigabyte, HP, Lenovo, Logitech, Microsoft
 ![](./mousejack.png)
 
+# http://arstechnica.com/information-technology/2016/02/facebook-launches-project-to-open-source-hardware-designs-for-cell-networks/
+
+# http://arstechnica.com/security/2016/02/linux-mint-hit-by-malware-infection-on-its-website-and-forum-after-hack-attack/
 
 # Fin
 
