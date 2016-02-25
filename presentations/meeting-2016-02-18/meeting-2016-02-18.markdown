@@ -1,7 +1,3 @@
----
-theme: m
----
-
 ## This week in technology, open source, and Linux!
 
 By The Open Source Club

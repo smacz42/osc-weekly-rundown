@@ -5,16 +5,14 @@ This is a quick and easy to use/modify repo that can be accessed by anyone givin
 # Dependencies
 * [pandoc](http://pandoc.org/)
 * [latex](https://www.latex-project.org/)
-* [mtheme for LaTeX](https://github.com/matze/mtheme)
 
 # To Run
-* Run the make file
-``` $ Makefile ```
+* Fetch the beamer theme: `$ git submodule init && git submodule update`
+* Run the make file: `$ Makefile`
 * Open the HTML file containing the week's current meeting in a browser.
 
 # Future Plans (some options)
 * Modify the make file to have an output directory.
 * Make a better solution to deal with PDFs.
-
 
 Questions or comments, please feel free to make an issue. The repo maintainers are [Nefari0uss](https://github.com/Nefari0uss) and [LibreWulf](https://github.com/oslerw)

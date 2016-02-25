@@ -1,0 +1,3 @@
+[submodule "vendor/mtheme"]
+	path = vendor/mtheme
+	url = https://github.com/matze/mtheme.git

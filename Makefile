@@ -7,19 +7,24 @@ TEX=$(MD:.markdown=.tex)
 all: $(PDF)
 debug: $(TEX)
 
-%.pdf: %.markdown template.latex Makefile
+mtheme: vendor/mtheme/source/*
+	cd vendor/mtheme; $(MAKE) sty
+
+%.pdf: %.markdown template.latex Makefile mtheme
+	$(eval OLDROOT=$(shell pwd))
 	$(eval DIR=$(shell dirname $<))
 	$(eval MY_MD=$(shell basename $<))
 	$(eval MY_PDF=$(shell basename $@))
-	cd $(DIR); pandoc $(MY_MD) -t beamer --latex-engine xelatex -o $(MY_PDF) --template=$(TEMPLATE) -f markdown+lists_without_preceding_blankline-implicit_figures
+	cd $(DIR); pandoc $(MY_MD) -t beamer --latex-engine xelatex -o $(MY_PDF) --template=$(TEMPLATE) -f markdown+lists_without_preceding_blankline-implicit_figures -V mthemeDir="$(OLDROOT)/vendor/mtheme"
 
 # Useful for debugging
 %.tex: %.markdown template.latex Makefile
 	$(eval DIR=$(shell dirname $<))
 	$(eval MY_MD=$(shell basename $<))
 	$(eval MY_TEX=$(shell basename $@))
-	cd $(DIR); pandoc $(MY_MD) -t beamer --latex-engine xelatex -o $(MY_TEX) --template=$(TEMPLATE) -f markdown+lists_without_preceding_blankline
+	cd $(DIR); pandoc $(MY_MD) -t beamer --latex-engine xelatex -o $(MY_TEX) --template=$(TEMPLATE) -f markdown+lists_without_preceding_blankline -V mthemeDir="$(OLDROOT)/vendor/mtheme"
 
 clean:
 	- rm $(PDF)
 	- rm $(TEX)
+	- cd vendor/mtheme; $(MAKE) clean

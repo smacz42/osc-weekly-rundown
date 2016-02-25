@@ -48,8 +48,8 @@ $if(CJKmainfont)$
     \setCJKmainfont[$for(CJKoptions)$$CJKoptions$$sep$,$endfor$]{$CJKmainfont$}
 $endif$
 \fi
-$if(theme)$
-\usetheme{$theme$}
+$if(mthemeDir)$
+\usepackage{$mthemeDir$/beamerthememetropolis}
 $endif$
 $if(defcolor)$
 $for(defcolor)$
