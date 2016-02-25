@@ -8,7 +8,7 @@ all: $(PDF)
 debug: $(TEX)
 
 mtheme: vendor/mtheme/source/*
-	cd vendor/mtheme; $(MAKE) sty
+	cd vendor/mtheme; $(MAKE) sty install;
 
 %.pdf: %.markdown template.latex Makefile mtheme
 	$(eval OLDROOT=$(shell pwd))
