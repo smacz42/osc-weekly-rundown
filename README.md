@@ -5,6 +5,7 @@ This is a quick and easy to use/modify repo that can be accessed by anyone givin
 # Dependencies
 * [pandoc](http://pandoc.org/)
 * [latex](https://www.latex-project.org/)
+* [mtheme for LaTeX](https://github.com/matze/mtheme)
 
 # To Run
 * Run the make file
