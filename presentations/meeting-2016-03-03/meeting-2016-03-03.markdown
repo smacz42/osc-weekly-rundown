@@ -39,6 +39,13 @@ By The Open Source Club
     - Can then decrypt strong TLS sessions
 - Disable SSLv2 or use different keys
 
+# [Vantablack](http://www.surreynanosystems.com/vantablack/faqs)
+
+- Vantablack is the world's darkest man-made substance absorbing 99.964% of light
+- "Surrey NanoSystems Ltd (SNS) is the only manufacturer of Vantablack coatings"
+- Surrey nanosystems have licensed Vantablack exclusively to Anish Kapoor, a British-Indian sculptor
+- Introduces an unheard of monopoly on a material in the art world
+
 # Disclaimer
 * The views expressed in this presentation are those of the presentator(s).
 * They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
