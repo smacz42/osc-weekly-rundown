@@ -78,9 +78,6 @@ By The Open Source Club
 * Amazon, FaceBook, Google, Microsoft, Twitter and Yahoo support Apple.
 * French bill carries 5 year jail sentence for company that refuses to decrypt data for police via [DailyDot](http://www.dailydot.com/politics/amazon-encryption-kindle-fire-operating-system/)
 * Amazon removes enterprise level encrpytion on tablet devices via [DailyDot](http://www.dailydot.com/politics/amazon-encryption-kindle-fire-operating-system/)
-
-...
-
 * Piers Morgan and his [*brilliant*](https://twitter.com/piersmorgan/status/703355614966255616) idea on what to do:
 
 > Apple open the damn back door, let the FBI know what's on the phone, then
