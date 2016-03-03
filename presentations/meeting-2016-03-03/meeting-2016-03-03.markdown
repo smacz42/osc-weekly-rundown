@@ -25,11 +25,19 @@ setcolor:
     bg: LighterGray
 ---
 
-## This week in technology, open source, and Linux!
+# This week in technology, open source, and Linux!
 
 By The Open Source Club
 
 ![OSC Logo](osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# [DROWN](https://drownattack.com/)
+
+- A recently discovered padding oracle attack against SSLv2
+- If a server is running SSLv2, an attacker can gain information about the
+  private key
+    - Can then decrypt strong TLS sessions
+- Disable SSLv2 or use different keys
 
 # Disclaimer
 * The views expressed in this presentation are those of the presentator(s).
