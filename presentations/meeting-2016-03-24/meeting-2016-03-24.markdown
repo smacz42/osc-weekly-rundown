@@ -44,6 +44,15 @@ By The Open Source Club
 
 # TOPIC
 
+# Missing a Node
+## NPM breaks the internet
+
+- Azer's module kik is hit with trademark disputes
+- Node takes ownership of kik and handed it off
+- Azer feels corporate rights are being given more precedent than user's
+- Azer unplublishes over 250 modules
+ - modules that are dependencies for projects all over the internet
+- Oops, there goes the internet
 
 # []LAN Party](https://opensource.osu.edu/announcements/2016/03/24/lan-party/)
 
