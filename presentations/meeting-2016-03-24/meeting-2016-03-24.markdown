@@ -34,7 +34,7 @@ By The Open Source Club
 # Disclaimer
 * The views expressed in this presentation are those of the presentator(s).
 * They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
-* No guarantees are made that the information in this presentation are free of errors.
+* No guarantees are made that the information in this presentation is free of errors.
 
 # Contributing to the weekly rundown
 * Have something you'd like to talk about or see on the weekly meetings?
