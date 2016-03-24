@@ -41,11 +41,45 @@ By The Open Source Club
 * Feel free to add it to the weekly rundown!
 * Repository is available on [GitHub](https://github.com/OSUOSC/osc-weekly-rundown)
 
+# [Tay](https://twitter.com/tayandyou)
+* An artificial intelligent chat bot developed by Microsoft.
+* Experiment/research on conversational understanding.
+* Targeted towards 18-24 year old people in the US.
+. . .
+* Tay used the following information:
+> Nickname
+> Gender
+> Favorite food
+> Zipcode
+> Relationship status
 
-# TOPIC
+* Tweet [@TayTweets](https://twitter.com/tayandyou)
+![Tay Profile Pic](tay.jpg "Tay Twitter Profile Pic")
+# Tay should speak like a teenage girl.
 
+# Internet meet Tay. Tay meet Internet
+* Tay learns from what you tweet at her.
+. . .
+* Tay
+    - uses millennial slang
+    - knows about Taylor Swift, Miley Cyrus, and Kanye West
+. . .
+    - asks followers to fuck her
+    - and calls them daddy.
+. . .
+* Tay also believes that
+    - Bush did 9/11
+    - Hitler did nothing wrong
+    - Donald Trump is our only hope
 
-# []LAN Party](https://opensource.osu.edu/announcements/2016/03/24/lan-party/)
+# [RIP Tay](https://twitter.com/TayandYou/status/712856578567839745)
+* Final Tweet says this:
+> c u soon humans need sleep now so many conversations today thx💖
+
+# [gifi](https://github.com/vdemedes/gifi)
+* Watch GIFs while running NPM install.
+
+# [LAN Party](https://opensource.osu.edu/announcements/2016/03/24/lan-party/)
 
 - OSC and BuckeyeLAN are hosting a LAN party Sat 26 March 2016
 - Senate Chamber Room at the Ohio Union
