@@ -54,7 +54,7 @@ By The Open Source Club
  - modules that are dependencies for projects all over the internet
 - Oops, there goes the internet
 
-# []LAN Party](https://opensource.osu.edu/announcements/2016/03/24/lan-party/)
+# [LAN Party](https://opensource.osu.edu/announcements/2016/03/24/lan-party/)
 
 - OSC and BuckeyeLAN are hosting a LAN party Sat 26 March 2016
 - Senate Chamber Room at the Ohio Union
