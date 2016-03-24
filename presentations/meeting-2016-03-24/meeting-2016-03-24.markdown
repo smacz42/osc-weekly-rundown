@@ -64,3 +64,4 @@ By The Open Source Club
 # Fin
 * Anything we missed?
 * Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
