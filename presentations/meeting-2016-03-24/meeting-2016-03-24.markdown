@@ -41,7 +41,7 @@ By The Open Source Club
 * Feel free to add it to the weekly rundown!
 * Repository is available on [GitHub](https://github.com/OSUOSC/osc-weekly-rundown).
 
-# [Tay](https://twitter.com/tayandyou)
+# [Tay](tayandyo://www.tay.ai/)
 ![Tay](tay.jpg "Tay Twitter Profile Pic")
 
 # ~~~What~~~ Who is Tay?
@@ -59,7 +59,9 @@ By The Open Source Club
 > Zipcode, 
 > Relationship status
 
-* Tweet [\@TayTweets](https://twitter.com/tayandyou)
+. . .
+
+* Tweet [\@tayandyou](https://twitter.com/tayandyou)
 * Tay should speak like a teenage girl.
 
 # Internet meet Tay. Tay meet Internet.
@@ -72,16 +74,14 @@ By The Open Source Club
     - knows about Taylor Swift, Miley Cyrus, and Kanye West
 
 . . .
-* and 
-    - asks followers to fuck her
-    - calls them daddy
-
-. . .
 
 * Tay also believes that
     - Bush did 9/11
     - Hitler did nothing wrong
     - Donald Trump is our only hope
+
+# Discussion with Tay
+![best girl tay](best-girl-tay.jpg "best girl tay")
 
 # [RIP Tay](https://twitter.com/TayandYou/status/712856578567839745)
 * Final Tweet says this:
@@ -89,14 +89,15 @@ By The Open Source Club
 > c u soon humans need sleep now so many conversations today thx💖
 
 # Missing a Node
-![NPM](npm-logo.svg "NPM Logo")
+![NPM](npm-logo.pdf "NPM Logo")
 
 # What is [NPM](https://www.npmjs.com/)?
 * A package manager for NodeJS.
 * Can be used to install node prgrams.
 * In development, it can specificy and link dependencies.
-* Packages can be installed via ```npm install <package-namej>```
+* Packages can be installed via ```npm install <package-name>```
 * Packages take a long time to install.
+* Solution?
 
 # [gifi](https://github.com/vdemedes/gifi)
 * Watch GIFs while running NPM install.
@@ -108,21 +109,22 @@ By The Open Source Club
 * Here's what happened.
 
 # NPM sends the Internet in a tizzy
-* [Azer Koçulu](https://twitter.com/azerbike) and [Kik](https://www.kik.com) correspond over the use of the module name ```[kik](https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d)```.
+* [Azer Koçulu](https://twitter.com/azerbike) and [Kik](https://www.kik.com) correspond over the use of the module name [```kik```](https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d).
 
 . . .
 
 * They did not come to an agreement and Kik asked NPM org to step in.
 * [Azer](https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.69jgzns8x) deletes his account and unpublishes his packages. 
 
-https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.69jgzns8x
+. . .
 
-- Azer's module kik is hit with trademark disputes
-- Node takes ownership of kik and handed it off
-- Azer feels corporate rights are being given more precedent than user's
-- Azer unplublishes over 250 modules
-    - modules that are dependencies for projects all over the internet
-- Oops, there goes the internet
+* One of the packages he unpublished was called [```left-pad```](https://www.npmjs.com/package/left-pad).
+* This package was a dependencies in thousands of node modules.
+* The unpublishing caused them to fail...
+
+. . .
+
+* All of this happened over [11 SLOC](sourceod://www.npmjs.com/package/left-pad).
 
 # [LAN Party](https://opensource.osu.edu/announcements/2016/03/24/lan-party/)
 
