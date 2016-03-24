@@ -2,7 +2,7 @@
 
 # VIM
 # swap
-.swp
+*.swp
 # persistent undo 
 *.un~
 # session
