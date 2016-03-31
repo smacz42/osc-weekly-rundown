@@ -60,8 +60,21 @@ By The Open Source Club
 * Rereleased under MIT.
 * Contributed to .NET Foundation.
 
-# [GNU/NT](https://build.microsoft.com)
+# [Xamarin included under Visual Studio AND open source](https://blog.xamarin.com/xamarin-for-all)
+* Xamarin was bought by MS on 18 March 2016.
+* Visual Studio now includes Xamarin.
+* And is now part of the .NET foundation.
 
+
+# [GNU/NT](https://build.microsoft.com)
+* Microsoft had their Build 2016 conference...
+* They said some interesting things...
+* paradigm thinks it's an April Fool's joke.
+
+. . .
+
+* Video for the confused: https://www.youtube.com/watch?v=kJGqZHQzNRo
+* Explaination via [Hanselman](www.hanselman.com/blog/DevelopersCanRunBashShellAndUsermodeUbuntuLinuxBinariesOnWindows10.aspx)
 
 # Fin
 * Anything we missed?
