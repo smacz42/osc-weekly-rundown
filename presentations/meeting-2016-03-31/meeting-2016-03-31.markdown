@@ -47,6 +47,22 @@ By The Open Source Club
 * Feel free to add it to the weekly rundown!
 * Repository is available on [GitHub](https://github.com/OSUOSC/osc-weekly-rundown).
 
+
+# [Git 2.8](https://git.kernel.org/cgit/git/git.git/plain/Documentation/RelNotes/2.8.0.txt)
+* ```git branch -d my-branch``` #deletes the branch locally if it's already been merged.
+* ```git push``` -d origin my-branch``` #deletes the remote branch at origin.
+* ```git pull``` --rebase can now be run interactively.
+* ```git blame``` has an eye-candy progress bar.
+* ```git fetch``` can be configured to use ```ipv4``` or ```ipv6```
+
+# [Mono Relicensed to MIT](http://www.mono-project.com/news/2016/03/31/mono-relicensed-mit)
+* LibreWulf's favourite project.
+* Rereleased under MIT.
+* Contributed to .NET Foundation.
+
+# [GNU/NT](https://build.microsoft.com)
+
+
 # Fin
 * Anything we missed?
 * Feel free to share!
