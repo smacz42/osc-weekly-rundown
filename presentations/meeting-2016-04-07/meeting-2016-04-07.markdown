@@ -55,6 +55,11 @@ By The Open Source Club
 * Supports Jekyll, Middleman, Hexo, Pelican, etc...
 * Can host websites for free on GitLab.com
 
+# [Nest Discontinues Revolv](https://www.eff.org/deeplinks/2016/04/nest-reminds-customers-ownership-isnt-what-it-used-be)
+* After buying Revolv back in 2014, Nest is disabling the devices as of May 15th in favor of the Works with Nest system.
+* This has sparked controversy since the device offered a "Lifetime Subscription."
+* Those who choose to tinker with these devices and keep them alive operate in a legal grey area.
+
 # [Microsoft Bot Framework](https://dev.botframework.com/)
 * Open source platform for making chatbots for sms, Skype, Slack, and more.
 * Uses node.js on the backend, only supports Windows (at the moment).
