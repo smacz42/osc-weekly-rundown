@@ -1,0 +1,70 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+# This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Elections today
+* Want to vote? Register with Will at the front
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# Contributing to the weekly rundown
+* Have something you'd like to talk about or see on the weekly meetings?
+* Feel free to add it to the weekly rundown!
+* Repository is available on [GitHub](https://github.com/OSUOSC/osc-weekly-rundown).
+
+
+# [Android Studio 2.0 Released](http://android-developers.blogspot.com/2016/04/android-studio-2-0.html)
+* Instant Run: Changes to a running app appear live.
+* Faster Android emulator and adb.
+* Cloud Test Lab: Test apps on a wide range of physical devices easily.
+
+# [GitLab Pages](http://pages.gitlab.io/)
+* Static sites for GitLab projects, groups or users.
+* Supports Jekyll, Middleman, Hexo, Pelican, etc...
+* Can host websites for free on GitLab.com
+
+# [Microsoft Bot Framework](https://dev.botframework.com/)
+* Open source platform for making chatbots for sms, Skype, Slack, and more.
+* Uses node.js on the backend, only supports Windows (at the moment).
+* Some sample bots available, such as Bing Image Bot, Caption Bot, and MurphyBot.
+
+# [Tacobot](https://tacobell.com/feed/tacobot)
+* Taco Bell is testing a Slack bot for ordering food or just talking about things.
+* You can join a waitlist to try it out.
+
+# Fin
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
