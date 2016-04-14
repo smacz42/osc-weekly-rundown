@@ -1,0 +1,71 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+# This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# Contributing to the weekly rundown
+* Have something you'd like to talk about or see on the weekly meetings?
+* Feel free to add it to the weekly rundown!
+* Repository is available on [GitHub](https://github.com/OSUOSC/osc-weekly-rundown).
+
+# [Stallman against ZFS on Linux](http://www.theregister.co.uk/2016/04/12/bundling_zfs_and_linux_is_impossible_says_richard_stallman/)
+* Ubuntu 16.06 LTS plans to have ZFS built in
+* Stallman claims combining the CDDLv1-licensed ZFS with Linux is impossible due to GPL-incompatibility
+* Eben Moglen, co-author of GPLv3 argued that the merger would maintain the spirit of the licenses which is what matters in court
+
+# [Encryption is scary to politicans](https://twitter.com/hashtag/UMichTalks?src=hash)
+* U.S. Attorney, Barbara Mcquade, argued at the University of Michigan that, "[she thinks] it would be reasonable to ban the import of open-source encryption software"
+* Twitter replied in a shocked manner
+
+# [Emacs on Chrome](https://archive.fosdem.org/2015/schedule/event/emacs_and_elisp_on_the_chromebook/)
+* Emacs and Elisp can run natively on Chrome
+* ... I don't see why it's necessary, but okay
+
+# [Android N Developer Preview](http://android-developers.blogspot.com/2016/04/android-n-developer-preview-2-out-today.html)
+* Android N Developer Preview 2 out as of April 13th
+* [Lots of new features](https://developer.android.com/intl/zh-cn/preview/api-overview.html?utm_campaign=android_launch_npreview2_041316&utm_source=anddev&utm_medium=blog)
+
+# [Eevee on emoji](https://eev.ee/blog/2016/04/12/apple-did-not-invent-emoji/)
+
+# Mental Health Matters Week at OSU
+* Get rid of the stigma around mental illness
+* April 20th, 8:00PM-9:30PM, speakers at Independence Hall
+* April 22nd, free food in the South Oval and accepting donations to the Student Wellness Center
+
+# Fin
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
