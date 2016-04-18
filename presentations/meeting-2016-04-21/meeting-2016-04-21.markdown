@@ -1,0 +1,55 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+# This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# Contributing to the weekly rundown
+* Have something you'd like to talk about or see on the weekly meetings?
+* Feel free to add it to the weekly rundown!
+* Repository is available on [GitHub](https://github.com/OSUOSC/osc-weekly-rundown).
+
+#[Microsoft fights the gag-order norm](https://theintercept.com/2016/04/14/microsoft-says-u-s-is-abusing-secret-warrants/)
+<b><i>"We appreciate that there are times when secrecy around a government warrant is needed...it appears that the issuance of secrecy orders has become too routine"</i> - Microsoft President Brad Smith</b>
+
+# Mental Health Matters Week at OSU
+* Get rid of the stigma around mental illness
+* April 20th, 8:00PM-9:30PM, speakers at Independence Hall
+* April 22nd, free food in the South Oval and accepting donations to the Student Wellness Center
+
+# Fin
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
