@@ -31,6 +31,23 @@ By The Open Source Club
 
 ![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
 
+<!---80 second max, time it!-->
+# 60 second exit survey
+* Were the talks not interactive enough?
+* Would workshops be helpful?
+* Shout out some things you'd like to see
+* How were talks this year?
+  - Simple?
+  - Too simple?
+  - Boring?
+  - Challenging?
+  - Too complex?
+
+# Thank you!
+
+# Saying goodbye to our graduating members
+![OSC Logo](../../common/osc-logo.pdf "Open SOurce CLub at Ohio State Logo")
+
 # Disclaimer
 * The views expressed in this presentation are those of the presentator(s).
 * They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
@@ -40,9 +57,6 @@ By The Open Source Club
 * Have something you'd like to talk about or see on the weekly meetings?
 * Feel free to add it to the weekly rundown!
 * Repository is available on [GitHub](https://github.com/OSUOSC/osc-weekly-rundown).
-
-#[Microsoft fights the gag-order norm](https://theintercept.com/2016/04/14/microsoft-says-u-s-is-abusing-secret-warrants/)
-<b><i>"We appreciate that there are times when secrecy around a government warrant is needed...it appears that the issuance of secrecy orders has become too routine"</i> - Microsoft President Brad Smith</b>
 
 #[Intel moving away from PC](http://www.computerworld.com/article/3058766/it-industry/intel-axes-12000-jobs-as-it-seeks-to-break-away-from-pcs.html)
 *11% of workforce cut (12,000 jobs)
@@ -59,10 +73,8 @@ How does this move affect us?
 *33 days of annual leave
 *Where to apply? [Apply here -> See Delgado for link](https://theroyalhousehold.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-2/xf-a2b7d51f079f/candidate/so/pm/1/pl/4/opp/1140-Head-of-Digital-Engagement/en-GB)
 
-# Mental Health Matters Week at OSU
-* Get rid of the stigma around mental illness
-* April 20th, 8:00PM-9:30PM, speakers at Independence Hall
-* April 22nd, free food in the South Oval and accepting donations to the Student Wellness Center
+#[Microsoft fights the gag-order norm](https://theintercept.com/2016/04/14/microsoft-says-u-s-is-abusing-secret-warrants/)
+<b><i>"We appreciate that there are times when secrecy around a government warrant is needed...it appears that the issuance of secrecy orders has become too routine"</i> - Microsoft President Brad Smith</b>
 
 # Fin
 * Anything we missed?
