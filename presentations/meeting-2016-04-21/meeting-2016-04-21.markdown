@@ -37,11 +37,11 @@ By The Open Source Club
 * Would workshops be helpful?
 * Shout out some things you'd like to see
 * How were talks this year?
-  - Simple?
-  - Too simple?
-  - Boring?
-  - Challenging?
-  - Too complex?
+    - Simple?
+    - Too simple?
+    - Boring?
+    - Challenging?
+    - Too complex?
 
 # Thank you!
 
