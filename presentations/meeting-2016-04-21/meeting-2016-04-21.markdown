@@ -81,7 +81,17 @@ How does this move affect us?
 
 <!---2 minutes and hand over to Brian-->
 #[Microsoft fights the gag-order norm](https://theintercept.com/2016/04/14/microsoft-says-u-s-is-abusing-secret-warrants/)
-<b><i>"We appreciate that there are times when secrecy around a government warrant is needed...it appears that the issuance of secrecy orders has become too routine"</i> - Microsoft President Brad Smith</b>
+
+***"We appreciate that there are times when secrecy around a government warrant is needed...it appears that the issuance of secrecy orders has become too routine" - Microsoft President Brad Smith
+
+# Bots in #osuosc
+* Have you ever operated (or currently run) a bot on irc?
+* Have an opinion about bots in #osuosc?
+
+## Ben Keith is collecting an oral history of bots in #osuosc.
+
+* Please send your thoughts to ```keith.146@osu.edu```
+* Real names, pseudonyms, or anomymous responses will be accepted.
 
 # Fin
 * Anything we missed?
