@@ -1,0 +1,64 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+# This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+<!---4 minutes-->
+
+<!--10 seconds-->
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+<!--http://www.reuters.com/article/us-usa-cyber-congress-idUSKBN13P2ER-->
+# Rule 41
+* Expands FBI's reach in hacking cases
+* Brought about by the PlayPen case
+* Numerous attempts to block it in the Senate
+* Effective today!
+
+<!--http://www.theverge.com/2016/11/23/13718768/uk-surveillance-laws-explained-investigatory-powers-bill-->
+# UK surveillance powers expanded
+* The United Kingdom now has unprecedented surveillance powers
+* All new technologies to be published by telcom centers in the UK are subject to government requests
+
+# Amazon LightSail
+* Offers hosting
+* Don't want to use Digital Ocean? Try LightSail
+
+# Saying goodbye to our graduating members
+![OSC Logo](../../common/osc-logo.pdf "Open Source CLub at Ohio State Logo")
+
+# Fin
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
