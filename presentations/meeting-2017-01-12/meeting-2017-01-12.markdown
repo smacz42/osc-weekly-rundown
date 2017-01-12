@@ -46,6 +46,10 @@ By The Open Source Club
 * Remacs is a community driven port to change the C to Rust
 * Good opportunity to get involved with the community and learn about Rust
 
+# [Open Neural Machine Translation](http://opennmt.net/)
+* Open Source neural machine translation
+* Consider taking Parallel computing if this interests you or apply to work with [MVAPICH](http://mvapich.cse.ohio-state.edu/)
+
 # Fin
 * Anything we missed?
 * Feel free to share!
