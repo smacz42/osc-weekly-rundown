@@ -1,0 +1,52 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+# This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# SiFive Open Source chip
+* [Freedom E310 Risc-V SoC](https://www.sifive.com/products/freedom-e310/)
+* [Risc-V](https://riscv.org/) instruction set architecture (ISA) is free and open source
+* [Article about the FE310 and its targeting of the IOT market](http://www.infoworld.com/article/3155047/internet-of-things/sifive-rolls-out-fully-open-source-chip-for-iot-devices.html)
+
+# [Rust-based Emacs](http://www.wilfred.me.uk/blog/2017/01/11/announcing-remacs-porting-emacs-to-rust/)
+* Emacs is based on Elisp and C
+* Remacs is a community driven port to change the C to Rust
+* Good opportunity to get involved with the community and learn about Rust
+
+# Fin
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
