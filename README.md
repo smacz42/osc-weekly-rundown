@@ -6,6 +6,9 @@ This is a quick and easy to use/modify repo that can be accessed by anyone givin
 * [pandoc](http://pandoc.org/)
 * [latex](https://www.latex-project.org/)
 
+If you get this error: `! LaTeX Error: Filer 'etoolbox.sty' not found. ! LaTeX Error: Filer 'etoolbox.sty' not found.`
+* `texlive-latexextra` - Note this is the package name on Arch Linux.
+
 # To Run
 * Fetch the beamer theme: `$ git submodule init && git submodule update`
 * Run the make file: `$ Makefile`
@@ -15,4 +18,4 @@ This is a quick and easy to use/modify repo that can be accessed by anyone givin
 * Modify the make file to have an output directory.
 * Make a better solution to deal with PDFs.
 
-Questions or comments, please feel free to make an issue. The repo maintainers are [Nefari0uss](https://github.com/Nefari0uss) and [LibreWulf](https://github.com/oslerw)
+Questions or comments, please feel free to make an issue. The repo maintainers are [Nefari0uss](https://github.com/Nefari0uss) and [LibreWulf](https://github.com/oslerw). 
