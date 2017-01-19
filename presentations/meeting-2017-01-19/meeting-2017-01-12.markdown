@@ -1,0 +1,53 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+# This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# [Linux Kernel icmp6_send nullpointer panic](https://bugzilla.kernel.org/show_bug.cgi?id=189851)
+* Fragmented IPv6 packets cause kernel panic
+* Can be triggered remotely in approx. 60 seconds
+* Only in kernel version 4.8.12-2 (not in most distros yet)
+* Discovered 2016.12.08
+
+# [Mozilla Got a new logo](https://blog.mozilla.org/opendesign/arrival/)
+* Ditched the dinosaur now going with ```moz://a```
+* Drew inspiration from the curl logo ```curl://```
+* Going to moz://a isn't an Easter Egg [Bug report](https://bugzilla.mozilla.org/show_bug.cgi?id=1331968)
+
+# Fin
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
