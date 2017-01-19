@@ -10,6 +10,8 @@ If you get this error: `! LaTeX Error: Filer 'etoolbox.sty' not found. ! LaTeX E
 * `texlive-latexextra` - Arch Linux.
 * `texlive-latex-extra` - Ubuntu
 
+Note: Install using your system's prefered package manager.
+
 # To Run
 * Fetch the beamer theme: `$ git submodule init && git submodule update`
 * Run the make file: `$ Makefile`
