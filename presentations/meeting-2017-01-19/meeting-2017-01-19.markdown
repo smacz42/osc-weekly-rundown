@@ -36,6 +36,21 @@ By The Open Source Club
 * They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
 * No guarantees are made that the information in this presentation is free of errors.
 
+# BDAA
+* Big Data and Analytics Association is an OSU organization
+* Python certification with Cognitar cognitir.com/osu
+* Any questions? email gilbert.607@osu.edu
+* tinyurl.com/BDAAinterest
+
+# Django and Python 2
+* Django 2.0 will not support Python 2
+* The LTS version offers support for the next 3 years.
+
+# [PyTorch](http://pytorch.org/)
+* Torch is a GPU-focused scientific computing framework
+* PyTorch is meant for deep learning and scientific computing
+* Allows a substitute for NumPy using GPU's for speed
+
 # [Linux Kernel icmp6_send nullpointer panic](https://bugzilla.kernel.org/show_bug.cgi?id=189851)
 * Fragmented IPv6 packets cause kernel panic
 * Can be triggered remotely in approx. 60 seconds
