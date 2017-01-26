@@ -1,6 +1,6 @@
 # Git Ignore
 
-*.pdf
+meeting-*.pdf
 
 # VIM
 # swap
