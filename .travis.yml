@@ -3,7 +3,8 @@ notifications:
 language: c
 before_install:
   - sudo apt-get -qq update
-  - sudo apt-get install texlive pandoc texlive-latex-base texlive-latex-extras
+  - sudo apt-get install -y -qq texlive pandoc texlive-latex-base texlive-latex-extra latexmk
+  - git submodule init && git submodule update
 script:
     make
 before_deploy:
