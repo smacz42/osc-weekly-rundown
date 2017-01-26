@@ -12,7 +12,10 @@ This is a quick and easy to use/modify repo that can be accessed by anyone givin
 * [latex](https://www.latex-project.org/)
 
 If you get this error: `! LaTeX Error: Filer 'etoolbox.sty' not found. ! LaTeX Error: Filer 'etoolbox.sty' not found.`
-* `texlive-latexextra` - Note this is the package name on Arch Linux.
+* `texlive-latexextra` - Arch Linux.
+* `texlive-latex-extra` - Ubuntu
+
+Note: Install using your system's prefered package manager.
 
 # To Run
 * Fetch the beamer theme: `$ git submodule init && git submodule update`
