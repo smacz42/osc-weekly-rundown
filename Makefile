@@ -1,9 +1,12 @@
 MD=$(shell find . -name '*.markdown')
+LAST=$(shell find . -name '*.markdown' | sort | sed -e '$$!d')
 ROOT=$(shell pwd)
 TEMPLATE=$(addsuffix /template.latex, $(ROOT))
 PDF=$(MD:.markdown=.pdf)
 TEX=$(MD:.markdown=.tex)
 
+latest: $(LAST:.markdown=.pdf)
+debuglatest: $(LAST:.markdown=.tex)
 all: $(PDF)
 debug: $(TEX)
 
@@ -24,6 +27,6 @@ mtheme: vendor/mtheme/source/*
 	cd $(DIR); pandoc $(MY_MD) -t beamer --latex-engine xelatex -o $(MY_TEX) --template=$(TEMPLATE) -f markdown+lists_without_preceding_blankline
 
 clean:
-	- rm $(PDF)
-	- rm $(TEX)
+	- rm -f $(PDF)
+	- rm -f $(TEX)
 	- cd vendor/mtheme; $(MAKE) clean

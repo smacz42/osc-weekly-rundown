@@ -6,7 +6,7 @@ before_install:
   - sudo apt-get install -y -qq texlive pandoc texlive-latex-base texlive-latex-extra latexmk
   - git submodule init && git submodule update
 script:
-    make
+    make all
 before_deploy:
     test $TRAVIS_TEST_RESULT = 0
 after_deploy:
