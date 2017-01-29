@@ -17,9 +17,20 @@ If you get this error: `! LaTeX Error: Filer 'etoolbox.sty' not found. ! LaTeX E
 
 Note: Install using your system's prefered package manager.
 
+# Adding a meeting
+A template meeting is provided in presentations. First a directory for the specified meeting should be created. Then the template should
+be copied over into this and edited from there. For a meeting taking place on April 2nd, 2020 the commands to do this would look like
+
+```bash
+mkdir presentations/meeting-2020-04-02
+cp presentations/template.markdown.sample presentations/meeting-2020-04-02/meeting-2020-04-02.markdown
+```
+
+From there the file presentations/meeting-2020-04-02.markdown can be edited to add content.
+
 # To Run
 * Fetch the beamer theme: `$ git submodule init && git submodule update`
-* Run the make file: `$ Makefile`
+* Run the make file: `$ Makefile` (simply running make will create the latest presentation only)
 * Open the HTML file containing the week's current meeting in a browser.
 
 # Future Plans (some options)
