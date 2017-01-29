@@ -1,0 +1,58 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+## This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# Contributing to the weekly rundown
+* Have something you'd like to talk about or see on the weekly meetings?
+* Feel free to add it to the weekly rundown!
+* Repository is available on [GitHub](https://github.com/OSUOSC/ossc-weekly-rundown)
+
+# Missed news from last week
+* [...]
+
+# [Mozilla recruiting US College Students for Study on Open Source Campus Clubs](https://www.reddit.com/r/opensource/comments/5qk4yp/mozilla_is_recruiting_us_college_students_for_a/)
+* Led by [Mozilla Campus Clubs](https://campus.mozilla.community/) team
+* [Fill out recruitment survey](https://docs.google.com/forms/d/e/1FAIpQLSdKf1Gse32YbC_UCDTWNSxWJd-A9A7XrR-kUNHBhom-W_nV5A/viewform?c=0&w=1&usp=send_form)
+* Conducting series of 1 hr interview sessions over Google Hangouts
+* Students who are interested or already active in on-campus Open Source communities
+* Learn what types of projects motivate you
+
+# Fin
+
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
