@@ -41,6 +41,13 @@ By The Open Source Club
 * Feel free to add it to the weekly rundown!
 * Repository is available on [GitHub](https://github.com/OSUOSC/ossc-weekly-rundown)
 
+# [Mozilla recruiting US College Students for Study on Open Source Campus Clubs](https://www.reddit.com/r/opensource/comments/5qk4yp/mozilla_is_recruiting_us_college_students_for_a/)
+* Led by [Mozilla Campus Clubs](https://campus.mozilla.community/) team
+* [Fill out recruitment survey](https://docs.google.com/forms/d/e/1FAIpQLSdKf1Gse32YbC_UCDTWNSxWJd-A9A7XrR-kUNHBhom-W_nV5A/viewform?c=0&w=1&usp=send_form)
+* Conducting series of 1 hr interview sessions over Google Hangouts
+* Students who are interested or already active in on-campus Open Source communities
+* Learn what types of projects motivate you
+
 # ['Open Source' is now a word](http://fossforce.com/2017/02/open-source-now-word/)
 * Despite being two words, the term 'Open Source' has been added to the Merriam Webster dictionary
 * [Also included this year are](https://arstechnica.com/business/2017/02/merriam-webster-updates-tech-word-list-and-you-will-believe-which-one-was-added/):
@@ -65,15 +72,8 @@ By The Open Source Club
 * BU Community located at [/r/btc](https://www.reddit.com/r/btc/)
 * [Comparison graph](https://www.reddit.com/r/btc/)
 
-# [Mozilla recruiting US College Students for Study on Open Source Campus Clubs](https://www.reddit.com/r/opensource/comments/5qk4yp/mozilla_is_recruiting_us_college_students_for_a/)
-* Led by [Mozilla Campus Clubs](https://campus.mozilla.community/) team
-* [Fill out recruitment survey](https://docs.google.com/forms/d/e/1FAIpQLSdKf1Gse32YbC_UCDTWNSxWJd-A9A7XrR-kUNHBhom-W_nV5A/viewform?c=0&w=1&usp=send_form)
-* Conducting series of 1 hr interview sessions over Google Hangouts
-* Students who are interested or already active in on-campus Open Source communities
-* Learn what types of projects motivate you
-
 # [Keybase secure chat](https://keybase.io/blog/keybase-chat)
-* Can use any<sup>citation needed</sup> social media identities to find friends
+* Can use any (*citation needed*) social media identities to find friends
 * Each device has a key
 * Forward-secrecy messages must be specified
 * CLI client for those who want it
