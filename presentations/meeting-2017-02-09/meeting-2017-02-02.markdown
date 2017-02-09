@@ -1,0 +1,78 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+## This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# Contributing to the weekly rundown
+* Have something you'd like to talk about or see on the weekly meetings?
+* Feel free to add it to the weekly rundown!
+* Repository is available on [GitHub](https://github.com/OSUOSC/ossc-weekly-rundown)
+
+# ['Open Source' is now a word](http://fossforce.com/2017/02/open-source-now-word/)
+* Despite being two words, the term 'Open Source' has been added to the Merriam Webster dictionary
+* [Also included this year are](https://arstechnica.com/business/2017/02/merriam-webster-updates-tech-word-list-and-you-will-believe-which-one-was-added/):
+    * Ping
+    * Rootkit
+    * Keylogger
+    * Clickbait
+* Still no entry for GNU (Poor Stallman...)
+* [/r/opensource thread](https://www.reddit.com/r/opensource/comments/5svfhk/open_source_is_now_a_word/)
+
+# Bitcoin Unlimited
+* Bitcoin Unlimited Scaling Solution = Miner-Determined Block Size
+* Currently @ ~10% of hashrate
+    * Goal ~75%
+    * 189 of last 1000 blocks
+* Bitcoin Core Scaling Solution = Segregated Witness (SegWit)
+* Currently @ ~12% of hashrate
+    * Goal ~95%
+    * 240 of last 1000 blocks
+* Community located at [/r/btc](https://www.reddit.com/r/btc/)
+
+* [Comparison graph](https://www.reddit.com/r/btc/)
+
+# Lightning Talks next week!
+Have a topic that can't fill a whole meeting? Bring it with you February 16th
+
+# Fin
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
+
+# Pizza and social time!
+* Today's speaker and pizza sponsor: Harris Corporation
+* Mozilla link: https://goo.gl/forms/mpaHC9VP0JjRP7Kz2
+* Cheatsheets request sheet near pizza table
