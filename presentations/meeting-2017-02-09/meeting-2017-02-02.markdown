@@ -60,8 +60,9 @@ By The Open Source Club
 * Currently @ ~12% of hashrate
     * Goal ~95%
     * 240 of last 1000 blocks
-* Community located at [/r/btc](https://www.reddit.com/r/btc/)
 
+* Bitcoin Price as of 2/9/17 -> [~$975](http://www.coindesk.com/price/)
+* BU Community located at [/r/btc](https://www.reddit.com/r/btc/)
 * [Comparison graph](https://www.reddit.com/r/btc/)
 
 # Lightning Talks next week!
