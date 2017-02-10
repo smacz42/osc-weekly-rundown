@@ -96,6 +96,6 @@ Have a topic that can't fill a whole meeting? Bring it with you February 16th
 * [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
 
 # Pizza and social time!
-* Today's speaker and pizza sponsor: Harris Corporation
+* Today's speaker: Brian Costlow of PyOhio
 * Mozilla link: https://goo.gl/forms/mpaHC9VP0JjRP7Kz2
 * Cheatsheets request sheet near pizza table
