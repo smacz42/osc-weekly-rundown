@@ -1,9 +1,13 @@
 notifications:
   email: false
 language: c
+
+dist: trusty
+sudo: required
+
 before_install:
   - sudo apt-get -qq update
-  - sudo apt-get install -y -qq texlive pandoc texlive-latex-base texlive-latex-extra latexmk
+  - sudo apt-get install -y -qq texlive pandoc texlive-latex-base texlive-latex-extra texlive-xetex latexmk
   - git submodule init && git submodule update
 script:
     make all
