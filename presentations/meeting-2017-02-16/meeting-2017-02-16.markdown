@@ -1,0 +1,86 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+## This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# Contributing to the weekly rundown
+* Have something you'd like to talk about or see on the weekly meetings?
+* Feel free to add it to the weekly rundown!
+* Repository is available on [GitHub](https://github.com/OSUOSC/ossc-weekly-rundown)
+
+# [Mozilla recruiting US College Students for Study on Open Source Campus Clubs](https://www.reddit.com/r/opensource/comments/5qk4yp/mozilla_is_recruiting_us_college_students_for_a/)
+* Led by [Mozilla Campus Clubs](https://campus.mozilla.community/) team
+* [Fill out recruitment survey](https://docs.google.com/forms/d/e/1FAIpQLSdKf1Gse32YbC_UCDTWNSxWJd-A9A7XrR-kUNHBhom-W_nV5A/viewform?c=0&w=1&usp=send_form)
+* Conducting series of 1 hr interview sessions over Google Hangouts
+* Students who are interested or already active in on-campus Open Source communities
+* Learn what types of projects motivate you
+
+# [Linuexit](http://www.itnews.com/article/3170630/linux/munich-officials-vote-to-replace-citys-linux-desktop-with-windows.html)
+* LiMux will be replaced by Windows by the end of 2020, city councillors have decided
+* The migration was successfully completed in late 2013 with over 15,000 personal computers and laptops of public employees moving to free and open-source software.
+* Munich Lord Mayor Deiter Reiter successfully lobbied Microsoft in late 2016 to move its Microsoft Germany corporate headquarters to to Munich.
+* Accenture, Microsoft's Alliance Partner of the Year in 2016, was chosen to deliver a fair case on what Munich should do with its city IT desktops.
+*  In the report, Accenture, with every reason to recommend Microsoft products, said only between 18 percent and 28 percent of city users had software problems which could be solved by migrating to Windows and MS Office. 
+
+# [DuckDuckGo Donates #300,000 to Raise the Standard of Trust Online](https://spreadprivacy.com/2017-donations-d6e4e4230b88)
+* $75,000 to World Pravacy Forum
+* $29,000 to Open Whisper Systems
+* $25,000 to Privacy Rights Clearinghouse
+* $25,000 to Tor
+* $25,000 to The Electronic Frontier Foundation (EFF)
+* Smaller donations to:
+    * ACLU
+    * Access Now
+    * The Calyx Institute
+    * Centerfor Democracy & Technology
+    * Restore the Fourth
+    * Center for Digital Democray
+    * Patient Privacy Rights
+    * Online Trust Alliance
+    * Tech Freedom
+    * Demand Progress
+
+* Use DDG for all your tech-related queries at duckduckgo.com!
+
+# Fin
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
+
+# Pizza and social time!
+* Today's speaker: Brian Costlow of PyOhio
+* Mozilla link: https://goo.gl/forms/mpaHC9VP0JjRP7Kz2
+* Cheatsheets request sheet near pizza table
