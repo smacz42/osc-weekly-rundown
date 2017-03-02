@@ -1,0 +1,72 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+## This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# Contributing to the weekly rundown
+* Have something you'd like to talk about or see on the weekly meetings?
+* Feel free to add it to the weekly rundown!
+* Repository is available on [GitHub](https://github.com/OSUOSC/ossc-weekly-rundown)
+
+
+# [Google End-to-End encrypted email code goes open-source](http://www.zdnet.com/article/google-end-to-end-email-code-goes-open-source/)
+* E2EMail
+* Chrome Application of a Gmail client that exchanges OpenPGP mail
+* Handles key management and provides end-to-end encryption, decryption, signing and verification
+* Uses E2EMail's keyserver only
+
+* Github repo: https://github.com/e2email-org/e2email
+
+# [Mozilla Acquires Pocket](https://blog.mozilla.org/blog/2017/02/27/mozilla-acquires-pocket/)
+* Pocket, made by Read It Later, Inc., is the world’s leading save-for-later service.
+> “We believe that the **discovery** and accessibility of high quality web content is key to keeping the internet healthy by fighting against the rising tide of centralization and walled gardens. Pocket provides people with the tools they need to engage with and share content on their own terms, independent of hardware platform or content silo, for a safer, more empowered and independent online experience.” – Chris Beard, Mozilla CEO 
+* Pocket TOS
+    * In addition to the information that you provide to us when you register for a user account, we collect information about the URLs, titles and content of the web pages and other information you save to Pocket.
+    * We may also use non-identifying, non-aggregated information to deliver tailored advertisements to you. 
+    * Although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain free from security issues.
+* Mozilla Dev: "The plan is to open source the Pocket code as part of the Mozilla open source project, consistent with our licensing policies." [Source](https://www.reddit.com/r/firefox/comments/5wio45/mozilla_acquires_pocket/deadcf7/)
+
+# [Linux From Scratch 8.0 Released, Major Changes](https://fosspost.org/2017/02/26/linux-scratch-8-0-released-adding-major-changes/)
+* Also includes Beyond Linux From Scratch
+* Includes Systemd
+* Removes /lib -> /lib64 symbolic link
+* Numerous package updates, fixes
+
+# Fin
+
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
