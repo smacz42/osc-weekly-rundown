@@ -1,0 +1,61 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+## This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# Contributing to the weekly rundown
+* Have something you'd like to talk about or see on the weekly meetings?
+* Feel free to add it to the weekly rundown!
+* Repository is available on [GitHub](https://github.com/OSUOSC/ossc-weekly-rundown)
+
+# [AMD Ryzen 7 CPUs Released Today](http://www.phoronix.com/scan.php?page=article&item=ryzen-1800x-linux)
+* 8-core/16-threads
+* Uses basic machine learning to predict instructions
+* Ubuntu 16.10 (kernel 4.10)
+* ```lm_sensors``` didn't detect everything
+* Looks like an awesome workstation CPU and solid gaming CPI
+
+# [Amazon AWS s3 Debacle](https://aws.amazon.com/message/41926/)
+* US-EAST-1 s3 region down
+* Feb 28th 9:37AM till 1:54PM PST
+* Took down Heroku, GroupMe, Imgur, AWS Status page, and yupyupp's server backups.
+* Typo'd a command that ended up taking too many servers offline
+
+# Fin
+
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
