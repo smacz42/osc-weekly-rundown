@@ -31,6 +31,9 @@ By The Open Source Club
 
 ![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
 
+# A word from Electronics club
+* MakeOHI/O volunteering and expo
+
 # Disclaimer
 * The views expressed in this presentation are those of the presentator(s).
 * They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
@@ -51,7 +54,7 @@ By The Open Source Club
 # [Amazon AWS s3 Debacle](https://aws.amazon.com/message/41926/)
 * US-EAST-1 s3 region down
 * Feb 28th 9:37AM till 1:54PM PST
-* Took down Heroku, GroupMe, Imgur, AWS Status page, and yupyupp's server backups.
+* Took down Heroku, GroupMe, Imgur, AWS Status page, Github profile pictures, and yupyupp's server backups.
 * Typo'd a command that ended up taking too many servers offline
 
 # [Google End-to-End encrypted email code goes open-source](http://www.zdnet.com/article/google-end-to-end-email-code-goes-open-source/)
@@ -77,8 +80,17 @@ By The Open Source Club
 * Removes /lib -> /lib64 symbolic link
 * Numerous package updates, fixes
 
-# Fin
+# SHA-1 fallout
+* [SVN servers crash if a collision happens](https://arstechnica.com/security/2017/02/watershed-sha1-collision-just-broke-the-webkit-repository-others-may-follow/) which is a large problem for a centralized VCS
+* [Git didn't handle collisions well as of last year](https://stackoverflow.com/questions/9392365/how-would-git-handle-a-sha-1-collision-on-a-blob)
+* [Torvalds claims it isn't a problem and will be easy to mitigate,](http://www.zdnet.com/article/linus-torvalds-on-sha-1-and-git-the-sky-isnt-falling/) but there are plans to change the hash function without breaking backwards compatibility
 
+# Fin
 * Anything we missed?
 * Feel free to share!
 * [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
+
+# Final notes
+* Elections are next week, ask us about becoming an officer!
+* Volunteer opportunities have been posted
+* Eat pizza, and enjoy yourself
