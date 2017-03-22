@@ -1,0 +1,56 @@
+---
+theme: metropolis
+defcolor:
+  -
+    name: OSCRed
+    rgb: 152,27,30
+  -
+    name: LighterGray
+    rgb: 240,240,240
+  -
+    name: DarkerGray
+    rgb: 60,60,60
+setcolor:
+  -
+    type: normal text
+    fg: DarkerGray
+    bg: LighterGray
+  -
+    type: alerted text
+    fg: OSCRed
+    bg: LighterGray
+  -
+    type: frametitle
+    fg: OSCRed
+    bg: LighterGray
+---
+
+## This week in technology, open source, and Linux!
+
+By The Open Source Club
+
+![OSC Logo](../../common/osc-logo.pdf "Open Source Club at Ohio State Logo")
+
+# Disclaimer
+* The views expressed in this presentation are those of the presentator(s).
+* They are not endorsed by or affiliated with any of the people, companies, or entities mentioned.
+* No guarantees are made that the information in this presentation is free of errors.
+
+# Contributing to the weekly rundown
+* Have something you'd like to talk about or see on the weekly meetings?
+* Feel free to add it to the weekly rundown!
+* Repository is available on [GitHub](https://github.com/OSUOSC/ossc-weekly-rundown)
+
+
+# [Who owns your device?](https://www.eff.org/deeplinks/2017/03/patents-are-big-part-why-we-cant-own-nice-things-supreme-court-should-fix)
+* Lexmark attempting to use patent law to prevent companies from refilling their cartridges
+* Attempts to move the ownership of these products away from the consumer after sale
+* Uses patent law after a failed attempt with copyright law in 2004
+* Opposed by Mozilla, EFF, AARP, and R street
+
+# Fin
+
+* Anything we missed?
+* Feel free to share!
+* [http://go.osu.edu/osc_irc](http://go.osu.edu/osc_irc)
+* Presidential election and auxillary officers next week, March 30th
