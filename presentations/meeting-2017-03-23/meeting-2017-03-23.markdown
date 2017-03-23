@@ -43,7 +43,7 @@ By The Open Source Club
 
 # [Netdata 1.6.0 Released](https://github.com/firehol/netdata/releases/tag/v1.6.0) 
 * Birthday release
-    * Netdata first published on March 30th, 2016
+  * Netdata first published on March 30th, 2016
 * System Status Dashboard
 * [DEMO](https://atlanta.my-netdata.io/default.html#menu_system_submenu_processes;theme=slate)
 * [Ansible Role](https://galaxy.ansible.com/soehlert/netdata/)
@@ -52,7 +52,7 @@ By The Open Source Club
 # [Netflix Adds Support for Firefox on Linux](http://www.omgubuntu.co.uk/2017/03/netflix-finally-adds-support-firefox-linux) 
 * Netflix took 7 months from DRM module support in Firefox to allow Firefox User Agents to stream content
 
-> This announcement from Netflix means Linux users don’t need to do anything special to enjoy Netflix on Firefox — no plugins, no trickery, zero fuss.
+This announcement from Netflix means Linux users don’t need to do anything special to enjoy Netflix on Firefox — no plugins, no trickery, zero fuss.
 
 # Bitcoin Unlimited
 
@@ -66,6 +66,17 @@ By The Open Source Club
 * Attempts to move the ownership of these products away from the consumer after sale
 * Uses patent law after a failed attempt with copyright law in 2004
 * Opposed by Mozilla, EFF, AARP, and R street
+
+# Quick news
+* Senate votes to rollback FCC protections
+* Andrew Ng leaves Baidu
+* Visual Studio eats CPU
+
+# OSU news
+* Have cool projects? Present them at ShowOHI/O (or shOwHI/O)
+* Help us keep pizza in OSC. Volunteer at [ec.osu.edu!](https://ec.osu.edu/upcoming-events-and-volunteer-opportunites)
+* Artificial Intelligence club starting
+* OSC presidential election next week
 
 # Fin
 
