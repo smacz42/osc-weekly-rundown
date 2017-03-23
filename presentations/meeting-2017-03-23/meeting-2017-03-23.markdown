@@ -39,8 +39,27 @@ By The Open Source Club
 # Contributing to the weekly rundown
 * Have something you'd like to talk about or see on the weekly meetings?
 * Feel free to add it to the weekly rundown!
-* Repository is available on [GitHub](https://github.com/OSUOSC/ossc-weekly-rundown)
+* Repository is available on [GitHub](https://github.com/OSUOSC/osc-weekly-rundown)
 
+# [Netdata 1.6.0 Released](https://github.com/firehol/netdata/releases/tag/v1.6.0) 
+* Birthday release
+    * Netdata first published on March 30th, 2016
+* System Status Dashboard
+* [DEMO](https://atlanta.my-netdata.io/default.html#menu_system_submenu_processes;theme=slate)
+* [Ansible Role](https://galaxy.ansible.com/soehlert/netdata/)
+* [Docker Image](https://hub.docker.com/r/titpetric/netdata/)
+
+# [Netflix Adds Support for Firefox on Linux](http://www.omgubuntu.co.uk/2017/03/netflix-finally-adds-support-firefox-linux) 
+* Netflix took 7 months from DRM module support in Firefox to allow Firefox User Agents to stream content
+
+> This announcement from Netflix means Linux users don’t need to do anything special to enjoy Netflix on Firefox — no plugins, no trickery, zero fuss.
+
+# Bitcoin Unlimited
+
+* [36.7% of Total Hashrate](http://xtnodes.com/#blocks_pie_graph)
+* ![BU vs Core Blocks](https://i.imgur.com/4YKLX5s.jpg)
+* ![BU vs Segwit Blocks](https://i.imgur.com/4YKLX5s.jpg)
+* All this despite two emergency bugfixes in the last two weeks
 
 # [Who owns your device?](https://www.eff.org/deeplinks/2017/03/patents-are-big-part-why-we-cant-own-nice-things-supreme-court-should-fix)
 * Lexmark attempting to use patent law to prevent companies from refilling their cartridges
