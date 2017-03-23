@@ -54,13 +54,6 @@ By The Open Source Club
 
 This announcement from Netflix means Linux users don’t need to do anything special to enjoy Netflix on Firefox — no plugins, no trickery, zero fuss.
 
-# Bitcoin Unlimited
-
-* [36.7% of Total Hashrate](http://xtnodes.com/#blocks_pie_graph)
-* ![BU vs Core Blocks](https://i.imgur.com/4YKLX5s.jpg)
-* ![BU vs Segwit Blocks](https://i.imgur.com/4YKLX5s.jpg)
-* All this despite two emergency bugfixes in the last two weeks
-
 # [Who owns your device?](https://www.eff.org/deeplinks/2017/03/patents-are-big-part-why-we-cant-own-nice-things-supreme-court-should-fix)
 * Lexmark attempting to use patent law to prevent companies from refilling their cartridges
 * Attempts to move the ownership of these products away from the consumer after sale
