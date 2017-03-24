@@ -37,4 +37,11 @@ From there the file presentations/meeting-2020-04-02.markdown can be edited to a
 * Modify the make file to have an output directory.
 * Make a better solution to deal with PDFs.
 
+# Oh my god(s) or lack thereof, it isn't compiling and the meeting is in X minutes! (Fixes to common problems)
+* Check that all images are contained in the directory (no images from the interweb or you get error 43)
+* If you haven't worked on the repo from this machine, then make sure you have the dependencies installed and have gotten the submodules installed as mentioned in "To Run" above
+* Did the makefile change since the last time you ran this? If So, try swapping in the old makefile or checking out a commit before the makefile was changed and putting in the current presentation directory and running make
+* If make is running successfully but you can't find the outputted pdf, check make's output to see which presentation it is creating. If it's the wrong one then double check the format of both your directory name, and file name, it should be `meeting-20XX-MM-DD` and `meeting-20XX-MM-DD.markdown` respectively. Therefore it should also be the last entry in presentations when listed (besides the template of course)
+* If none of that works, then get to debugging and put your fix here
+
 Questions or comments, please feel free to make an issue. The repo maintainers are [Nefari0uss](https://github.com/Nefari0uss) and [LibreWulf](https://github.com/oslerw). 
