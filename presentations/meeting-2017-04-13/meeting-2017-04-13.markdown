@@ -42,7 +42,10 @@ By The Open Source Club
 * Repository is available on [GitHub](https://github.com/OSUOSC/osc-weekly-rundown)
 
 
-# [CAB requires all CAs to check and process a domain's CAA before issuing certs](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization)
+# [1/2 CAB requires all CAs to check and process a domain's CAA before issuing certs](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization)
+* CAB
+  * "A voluntary consortium of certification authorities, vendors of Internet browser software, operating systems, and other PKI-enabled applications that promulgates industry guidelines governing the issuance and management of X.509 v.3 digital certificates that chain to a trust anchor embedded in such applications."
+  * [CA/Browser Forum](https://cabforum.org/)
 * Certification Authority Authorization
   * [RFC 6844](https://tools.ietf.org/html/rfc6844) standardized in 2013
   * New DNS Record (type 257)
@@ -52,21 +55,19 @@ By The Open Source Club
   * Therefore it acts as a whitelist (good!)
   * Intended to strengthen PKI
     * Similar to public key pinning (HPKP)
-  *  CAA record checking takes about 7ms per record
-  * CAA record creation is possible in the latest version of BIND, NSD, Knot, and PowerDNS.
-  * Intended to stop
-* CAB
-  * "A voluntary consortium of certification authorities, vendors of Internet browser software, operating systems, and other PKI-enabled applications that promulgates industry guidelines governing the issuance and management of X.509 v.3 digital certificates that chain to a trust anchor embedded in such applications."
-  * [CA/Browser Forum](https://cabforum.org/)
+  * CAA record checking takes about 7ms per record
+
+# [2/2 CAB requires all CAs to check and process a domain's CAA before issuing certs](https://en.wikipedia.org/wiki/DNS_Certification_Authority_Authorization)
 * CAA is largely an administrative control.
   * Enterprises can utilize CAA to force their organization into a uniform issuance policy that’s enforced by the CAs.
-* [SSL Labs already supports checking for CAA](https://github.com/ssllabs/ssllabs-scan/issues/274)
 * Clients can not force a CAA check to verify a certificate
   * "Relying Applications MUST NOT use CAA records as part of certificate validation"
   * "CAA records are intended to allow CAs to avoid mis-issuing certificates in some circumstances, while DANE records are intended to allow relying applications (TLS clients) to avoid relying on mis-issued certificates in some circumstances."
 * Proposal implementation
   * Proposal passed - March 2017
   * Proposal implement date - September 2017
+* CAA record creation is possible in the latest version of BIND, NSD, Knot, and PowerDNS.
+* [SSL Labs already supports checking for CAA](https://github.com/ssllabs/ssllabs-scan/issues/274)
 
 # [Someone hacked every tornado siren in Dallas. It was loud](https://pbs.twimg.com/media/C83bG_1UIAAiU4v.jpg)
 * Friday, April 8, 2017
